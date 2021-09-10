@@ -10,7 +10,7 @@ namespace testinggh
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");
+            
             int x = 5;
             Console.WriteLine(x);
             Console.ReadLine();
